@@ -1,7 +1,5 @@
-OpenControl content for Red Hat technologies. Work in progress!
+## Project Moved!
 
-## Developer Prep
-Instructions on how to prepare your development host:
-- [RHEL / Fedora / CentOS](https://github.com/opencontrol/RedHat/blob/master/README-hostprep.md#red-hat-enterprise-linux-centos-fedora)
-- [OSX](https://github.com/opencontrol/RedHat/blob/master/README-hostprep.md#osx)
-- [Perform a test build](https://github.com/opencontrol/RedHat/blob/master/README-hostprep.md#perform-a-test-build)
+OpenControl content for Red Hat technologies now resides at https://github.com/ComplianceAsCode/redhat
+
+Existing Issues will still be tracked to completion. Open new issues at https://github.com/ComplianceAsCode/redhat/issues/new
